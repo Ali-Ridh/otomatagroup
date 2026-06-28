@@ -4,6 +4,7 @@ Language: Python
 ---
 
 Faiz Adli Nugraha - 5025231174 (in charge of the turing machine)
+
 Ali Ridho - 5025231162 (in charge of the push-down automata)
 
 ## Files
