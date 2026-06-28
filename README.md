@@ -25,7 +25,7 @@ python pda_simulator.py
 python turing_machine_simulator.py
 ```
 
-Type a string when prompted, press Enter to see the result. Type `exit` to quit.
+Type a string when prompted
 
 ---
 
